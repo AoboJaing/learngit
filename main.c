@@ -3,7 +3,7 @@
 void sayMy();
 
 int main(){
-	printf("Hello World!\n");
+	printf("I'm aobo sir.");
 	sayMy();
 	return 0;
 }
